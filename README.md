@@ -9,3 +9,13 @@ Slate is a user-friendly mobile application designed to help students keep track
 ![Assignments](https://user-images.githubusercontent.com/50706598/219943269-7ee72eaf-ed49-4cf4-8643-1e541ef85ee1.png)
 ![Chat 1](https://user-images.githubusercontent.com/50706598/219943271-0730138d-90f7-4db8-aae6-2b5e063311ce.png)
 ![Chat 2](https://user-images.githubusercontent.com/50706598/219943272-23cea167-0a8c-46aa-a32b-3c91316dcef7.png)
+
+
+<h1><a href="https://www.figma.com/file/grSVjDbX3MhvSHT8HHcIip/HCI-Assignment-2?node-id=0%3A1&t=yyYXXoI9mnkx5TMu-1">Figma Link</a></h1>
+
+<h1>Desirable Functionalities</h1>
+<li>Tutor Accessability</li>
+<li>Virtual Labs</li>
+<li>Plagarism Checker</li>
+<li>AI Translation</li>
+<li>Analytics Dashboard</li>
