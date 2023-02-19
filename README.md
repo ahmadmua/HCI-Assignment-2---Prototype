@@ -2,4 +2,10 @@
 Slate is a user-friendly mobile application designed to help students keep track of their academic progress. With Slate, students can easily view their course grades, assignments, and important deadlines all in one place.
 
 
-![Home Screen](https://user-images.githubusercontent.com/50706598/219943240-d5375e10-62c7-4611-8b00-b504cdc0ea2d.png)
+![Home Screen](https://user-images.githubusercontent.com/50706598/219943240-d5375e10-62c7-4611-8b00-b504cdc0ea2d.png) 
+![Login](https://user-images.githubusercontent.com/50706598/219943253-bd1bdf84-5a7b-4db4-92dc-c365d722c227.png)
+![Course List](https://user-images.githubusercontent.com/50706598/219943260-512a07c9-d151-40ed-ae45-270d1320fe86.png)
+![Course](https://user-images.githubusercontent.com/50706598/219943267-b0595199-1cb8-46a5-9ce8-09d99cded225.png)
+![Assignments](https://user-images.githubusercontent.com/50706598/219943269-7ee72eaf-ed49-4cf4-8643-1e541ef85ee1.png)
+![Chat 1](https://user-images.githubusercontent.com/50706598/219943271-0730138d-90f7-4db8-aae6-2b5e063311ce.png)
+![Chat 2](https://user-images.githubusercontent.com/50706598/219943272-23cea167-0a8c-46aa-a32b-3c91316dcef7.png)
